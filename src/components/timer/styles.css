@@ -1,0 +1,12 @@
+  .timer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #222222;
+    border: 1px solid #f7f7f7;
+    padding: 4px 12px;
+    color: #f7f7f7;
+    font-size: 2em;
+    font-weight: 300;
+    border-radius: 4px;
+  }
